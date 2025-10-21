@@ -21,6 +21,7 @@ void main()
 	}
 	counter++;
 	cout << counter;
+	cout<<hello;
 }
 
 
